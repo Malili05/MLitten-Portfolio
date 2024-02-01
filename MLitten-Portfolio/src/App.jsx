@@ -1,10 +1,9 @@
-import React from 'react';
-import Header from './components/header';
-import About from './components/about';
-import Portfolio from './components/portfolio';
+import React from "react";
+import Header from "./components/header";
+import About from "./components/about";
+import Portfolio from "./components/portfolio";
 import { useState } from "react";
-import { Outlet } from 'react-router-dom';
-
+import { Outlet } from "react-router-dom";
 
 function App() {
   return (

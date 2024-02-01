@@ -4,11 +4,12 @@ const Portfolio = () => {
   return (
     <section id="projects">
       <h2>Portfolio</h2>
-      <div class="card" style={
-        {
-            width:"18rem"
-        }
-      }>
+      <div
+        class="card"
+        style={{
+          width: "18rem",
+        }}
+      >
         <img
           src="..\src\assets\christmaskarma.png"
           class="card-img-top"
@@ -24,7 +25,7 @@ const Portfolio = () => {
             Go somewhere
           </a>
         </div>
-      </div> 
+      </div>
     </section>
   );
 };
