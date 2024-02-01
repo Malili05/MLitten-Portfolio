@@ -2,8 +2,11 @@ import React from "react";
 
 const About = () => {
   return (
-    <section id="about">
-      <h2>About Me</h2>
+    <section id="about" style={{
+        textAlign: "center",
+        background: "#ee85b5",
+    }}>
+      <h2 class="page-text">About Me</h2>
       <img
         style={{
           width: "250px",

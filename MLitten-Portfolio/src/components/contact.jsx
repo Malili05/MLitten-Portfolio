@@ -28,7 +28,7 @@ const Contact = () => {
   }
 
   return (
-    <section id="contact" class="container">
+    <section id="contact" class="container page-section">
       <div class="mb-3">
         <label for="exampleFormControlInput1" class="form-label">
           Name

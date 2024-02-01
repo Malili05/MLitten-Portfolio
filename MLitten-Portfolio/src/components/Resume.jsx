@@ -2,7 +2,7 @@ import React from "react";
 
 const Resume = () => {
   return (
-    <section id="resume">
+    <section id="resume" class="page-section">
       <embed
         src="..\src\assets\Resume Malisa Litten.pdf"
         type="application/pdf"
