@@ -1,15 +1,5 @@
-.button-colors {
-  background: #bb7e8c;
-  color: white;
-}
-.button-colors:hover {
-  background: #d1becf;
-  color: black;
-}
-.btn {
-  margin: 5px;
 
-}
+
 .card {
   width: 18rem;
   background-color: #878787;
@@ -29,22 +19,4 @@
 }
 .page-section {
   background: #d1becf;
-}
-.navbar {
-  background: #c9b6be;
-}
-.navbar-brand {
-  color: black;
-  font-family: "Handlee", cursive;
-  font-weight: 800;
-  font-style: normal;
-}
-.nav-link{
-  color: #bb7e8c;
-}
-.navbar-toggler{
-  color: #c9b6be;
-}
-.navbar-toggler{
-  background: beige;
 }
