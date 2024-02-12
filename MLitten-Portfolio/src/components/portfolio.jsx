@@ -3,6 +3,9 @@ import "../app.css";
 import karma from "../assets/christmasKarma.png";
 import parkFinder from "../assets/parkfinder.png";
 import horiseon from "../assets/horiseon.png"
+import noteTaker from "../assets/notetaker.png"
+import workDay from "../assets/workdaysched.png"
+import portfolio1 from "../assets/portfolioearlywork.png"
 import "../styles/portfolioStyles.css"
 
 const Portfolio = () => {
@@ -31,7 +34,31 @@ const Portfolio = () => {
       cardHref: "https://malili05.github.io/02-Challenge-Horiseon/",
       gitHubHref: "https://github.com/Malili05/02-Challenge-Horiseon",
     },
-  ];
+    {
+        imgURL: noteTaker,
+        cardTitle: "Note Taker",
+        cardText:
+          "a simple note taking app that saves notes created by the user",
+        cardHref: "https://malili-note-taker-6d5d81fe4464.herokuapp.com/",
+        gitHubHref: "https://github.com/Malili05/note-taker",
+      },
+    {
+        imgURL: workDay,
+        cardTitle: "Work Day Scheduler",
+        cardText:
+          "-offers color coded time slots relative to the current time of day -saves information in the text area of the time slots -gives current time of dat at the top of the page -has a save button for each time slot",
+        cardHref: "https://malili05.github.io/Work-Day-Scheduler/",
+        gitHubHref: "https://github.com/Malili05/Work-Day-Scheduler",
+      },
+    {
+        imgURL: portfolio1,
+        cardTitle: "Portfolio v1.0",
+        cardText:
+          "The first version of my portfolio before we learned Javascript and react. Build with just HTML and CSS",
+        cardHref: "https://github.com/Malili05/Portfolio-MLitten",
+        gitHubHref: "https://malili05.github.io/Portfolio-MLitten/",
+      },
+  ]
   return (
 
       <section id="portfolio" className="page-section">

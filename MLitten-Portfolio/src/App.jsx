@@ -1,7 +1,6 @@
 import React from "react";
 import Header from "./components/header";
-import About from "./components/about";
-import Portfolio from "./components/portfolio";
+import Footer from "./components/footer"
 import { useState } from "react";
 import { Outlet } from "react-router-dom";
 
@@ -10,6 +9,7 @@ function App() {
     <div className="App">
       <Header />
       <Outlet></Outlet>
+      <Footer></Footer>
     </div>
   );
 }

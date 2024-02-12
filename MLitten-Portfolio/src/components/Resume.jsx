@@ -1,5 +1,5 @@
 import React from "react";
-
+import "../styles/resumeStyles.css"
 const Resume = () => {
   return (
     <section id="resume" class="page-section">
