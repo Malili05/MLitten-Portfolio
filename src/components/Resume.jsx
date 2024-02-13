@@ -1,10 +1,11 @@
 import React from "react";
 import "../styles/resumeStyles.css"
+import resume from "../assets/RMlitten.pdf"
 const Resume = () => {
   return (
     <section id="resume" class="page-section">
       <embed
-        src="../assets/RMlitten.pdf"
+        src={resume}
         type="application/pdf"
         frameBorder="0"
         scrolling="auto"
