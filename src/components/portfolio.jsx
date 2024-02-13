@@ -1,6 +1,6 @@
 import React from "react";
 import "../App.css";
-import karma from "../assets/christmasKarma.png";
+import karma from "../assets/christmaskarma.png";
 import parkFinder from "../assets/parkfinder.png";
 import horiseon from "../assets/horiseon.png"
 import noteTaker from "../assets/notetaker.png"
