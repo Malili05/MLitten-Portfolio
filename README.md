@@ -31,5 +31,7 @@ N/A
 - [Link to MIT](https://www.google.com/search?q=MIT+license) 
 
   
+## Screenshot
+![image](https://github.com/Malili05/MLitten-Portfolio/assets/141981157/b41706e3-f6bb-4566-b425-0b541fdecca1)
 
   
