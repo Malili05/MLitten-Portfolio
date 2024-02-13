@@ -4,7 +4,7 @@ const Resume = () => {
   return (
     <section id="resume" class="page-section">
       <embed
-        src="..\src\assets\Resume Malisa Litten.pdf"
+        src="..\src\assets\RMlitten.pdf"
         type="application/pdf"
         frameBorder="0"
         scrolling="auto"
