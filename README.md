@@ -24,7 +24,6 @@ N/A
 
 ## Questions
 - [Github ] [Malili05](https://github.com/Malili05)
-- [Email with more questions ](mailto:malisalitten@gmail.com)
 
 
 ## License
