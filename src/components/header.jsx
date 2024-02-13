@@ -7,9 +7,9 @@ const Header = () => {
     <header>
       <nav class="navbar navbar-expand-lg">
         <div class="container-fluid">
-          <a class="navbar-brand" href="/">
+          <Link class="navbar-brand" to="/">
             Malisa Litten
-          </a>
+          </Link>
           <button
             class="navbar-toggler"
             type="button"
