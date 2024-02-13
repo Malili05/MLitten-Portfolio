@@ -1,5 +1,5 @@
 import React from "react";
-import "../app.css";
+import "../App.css";
 import karma from "../assets/christmasKarma.png";
 import parkFinder from "../assets/parkfinder.png";
 import horiseon from "../assets/horiseon.png"
