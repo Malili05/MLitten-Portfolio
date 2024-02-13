@@ -1,5 +1,5 @@
 import React from "react";
-import "../app.css";
+import "../App.css";
 import "../styles/navStyles.css"
 const Header = () => {
   return (
