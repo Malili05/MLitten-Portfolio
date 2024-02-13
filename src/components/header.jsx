@@ -1,6 +1,7 @@
 import React from "react";
 import "../App.css";
 import "../styles/navStyles.css"
+import { Link } from "react-router-dom";
 const Header = () => {
   return (
     <header>
@@ -23,24 +24,24 @@ const Header = () => {
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="/">
+                <Link class="nav-link" aria-current="page" to="/">
                   About Me
-                </a>
+                </Link>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/portfolio">
+                <Link class="nav-link" to="/portfolio">
                   Portfolio
-                </a>
+                </Link>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/resume">
+                <Link class="nav-link" to="/resume">
                   Resume
-                </a>
+                </Link>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/contact">
+                <Link class="nav-link" to="/contact">
                   Contact
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
