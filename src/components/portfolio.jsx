@@ -5,7 +5,7 @@ import parkFinder from "../assets/parkfinder.png";
 import horiseon from "../assets/horiseon.png"
 import noteTaker from "../assets/notetaker.png"
 import workDay from "../assets/workdaysched.png"
-import portfolio1 from "../assets/portfolioearlywork.png"
+import portfolio1 from "../assets/giftgenie.png"
 import "../styles/portfolioStyles.css"
 
 const Portfolio = () => {
