@@ -52,11 +52,11 @@ const Portfolio = () => {
       },
     {
         imgURL: portfolio1,
-        cardTitle: "Portfolio v1.0",
+        cardTitle: "GiftGenie",
         cardText:
-          "The first version of my portfolio before we learned Javascript and react. Build with just HTML and CSS",
-        cardHref: "https://github.com/Malili05/Portfolio-MLitten",
-        gitHubHref: "https://malili05.github.io/Portfolio-MLitten/",
+          "a gift finder application that takes you to Amazon to purchase the item",
+        cardHref: "https://giftgenie-vfsj.onrender.com",
+        gitHubHref: "https://github.com/Malili05/GiftGenie",
       },
   ]
   return (
